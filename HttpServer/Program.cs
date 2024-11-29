@@ -1,6 +1,9 @@
-﻿using System;
+﻿using Core.Entities;
+using HttpServer;
+using System;
 using System.Net;
 using System.Text;
+using System.Text.Json;
 using System.Threading.Tasks;
 
 class Program
@@ -8,11 +11,11 @@ class Program
     private const string _serverIp = "127.0.0.1";
     private const int _serverPort = 8080;
 
-    private static string responseString = "<html><div>Привет</div></html>";
+    private static PersonStore _personStore = new PersonStore();
     static async Task Main(string[] args)
     {
         HttpListener listener = new HttpListener();
-        listener.Prefixes.Add($"http://{_serverIp}:{_serverPort}/");
+        listener.Prefixes.Add($"http://{_serverIp}:{_serverPort}/peoples/");
 
         listener.Start();
 
@@ -24,17 +27,20 @@ class Program
 
             HttpListenerRequest request = httpContext.Request;
 
-            HttpListenerResponse response = httpContext.Response;
-
-            if (request.Headers["Content-Length"] == null)
+            string requestBody;
+            using (StreamReader reader = new StreamReader(request.InputStream, Encoding.UTF8))
             {
-                response.StatusCode = 411;
-                response.OutputStream.Close();
+                requestBody = reader.ReadToEnd();
             }
+
+            Person person = JsonSerializer.Deserialize<Person>(requestBody);
+            _personStore.Add(person);
+
+            HttpListenerResponse response = httpContext.Response;
 
             ConfigureHttpResponseHeaders(response);
 
-            byte[] responseBytes = Encoding.UTF8.GetBytes(responseString);
+            byte[] responseBytes = Encoding.UTF8.GetBytes(JsonSerializer.Serialize(_personStore.Persons));
 
             try
             {
@@ -55,7 +61,7 @@ class Program
     static void ConfigureHttpResponseHeaders(HttpListenerResponse response)
     {
         response.Headers.Add("Access-Control-Allow-Origin", "*");
-        response.Headers.Add("Access-Control-Allow-Methods", "GET");
+        response.Headers.Add("Access-Control-Allow-Methods", "GET, POST");
         response.Headers.Add("Access-Control-Allow-Headers", "*");
 
         response.Headers.Add("Content-type", "text/html");
