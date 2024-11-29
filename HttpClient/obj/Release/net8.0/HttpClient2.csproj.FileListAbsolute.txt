@@ -1,0 +1,14 @@
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\bin\Release\net8.0\HttpClient2.exe
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\bin\Release\net8.0\HttpClient2.deps.json
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\bin\Release\net8.0\HttpClient2.runtimeconfig.json
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\bin\Release\net8.0\HttpClient2.dll
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\bin\Release\net8.0\HttpClient2.pdb
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\obj\Release\net8.0\HttpClient2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\obj\Release\net8.0\HttpClient2.AssemblyInfoInputs.cache
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\obj\Release\net8.0\HttpClient2.AssemblyInfo.cs
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\obj\Release\net8.0\HttpClient2.csproj.CoreCompileInputs.cache
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\obj\Release\net8.0\HttpClient2.dll
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\obj\Release\net8.0\refint\HttpClient2.dll
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\obj\Release\net8.0\HttpClient2.pdb
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\obj\Release\net8.0\HttpClient2.genruntimeconfig.cache
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\tcp_test\HttpClient2\obj\Release\net8.0\ref\HttpClient2.dll
