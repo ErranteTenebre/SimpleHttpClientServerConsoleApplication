@@ -8,7 +8,17 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="personsList.json" />
+  </ItemGroup>
+
+  <ItemGroup>
     <ProjectReference Include="..\SimpleHttpClientServer\Core\Core.csproj" />
   </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="personsList.json" />
+  </ItemGroup>
+
+  <ProjectExtensions><VisualStudio><UserProperties personslist_1json__JsonSchema="js" /></VisualStudio></ProjectExtensions>
 
 </Project>

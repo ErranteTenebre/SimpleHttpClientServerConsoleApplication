@@ -5,7 +5,7 @@ VisualStudioVersion = 17.10.34916.146
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpServer", "..\HttpServer\HttpServer.csproj", "{58001C2A-1E86-4F9E-B2A4-5BE753758F49}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpClient", "..\HttpClient\HttpClient.csproj", "{BD212316-BE7A-47AF-B884-1175C736F136}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HttpClientConsole", "..\HttpClient\HttpClientConsole.csproj", "{BD212316-BE7A-47AF-B884-1175C736F136}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{17583D0B-7646-4F7B-88BA-4BE7A6DAC009}"
 EndProject

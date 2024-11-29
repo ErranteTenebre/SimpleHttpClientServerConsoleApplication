@@ -32,9 +32,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Айдар\\Documents\\Programming\\www\\MyProjects\\@studing\\simple-http-client-server\\HttpClient\\HttpClient.csproj",
-      "projectName": "HttpClient",
-      "projectPath": "C:\\Users\\Айдар\\Documents\\Programming\\www\\MyProjects\\@studing\\simple-http-client-server\\HttpClient\\HttpClient.csproj",
+      "projectUniqueName": "C:\\Users\\Айдар\\Documents\\Programming\\www\\MyProjects\\@studing\\simple-http-client-server\\HttpClient\\HttpClientConsole.csproj",
+      "projectName": "HttpClientConsole",
+      "projectPath": "C:\\Users\\Айдар\\Documents\\Programming\\www\\MyProjects\\@studing\\simple-http-client-server\\HttpClient\\HttpClientConsole.csproj",
       "packagesPath": "C:\\Users\\Айдар\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Айдар\\Documents\\Programming\\www\\MyProjects\\@studing\\simple-http-client-server\\HttpClient\\obj\\",
       "projectStyle": "PackageReference",
