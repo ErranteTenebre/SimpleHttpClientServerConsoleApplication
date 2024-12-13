@@ -1,0 +1,15 @@
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\bin\Debug\net8.0\HttpProxyServer.exe
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\bin\Debug\net8.0\HttpProxyServer.deps.json
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\bin\Debug\net8.0\HttpProxyServer.runtimeconfig.json
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\bin\Debug\net8.0\HttpProxyServer.dll
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\bin\Debug\net8.0\HttpProxyServer.pdb
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\obj\Debug\net8.0\HttpProxyServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\obj\Debug\net8.0\HttpProxyServer.AssemblyInfoInputs.cache
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\obj\Debug\net8.0\HttpProxyServer.AssemblyInfo.cs
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\obj\Debug\net8.0\HttpProxyServer.csproj.CoreCompileInputs.cache
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\obj\Debug\net8.0\HttpProxyServer.sourcelink.json
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\obj\Debug\net8.0\HttpProxyServer.dll
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\obj\Debug\net8.0\refint\HttpProxyServer.dll
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\obj\Debug\net8.0\HttpProxyServer.pdb
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\obj\Debug\net8.0\HttpProxyServer.genruntimeconfig.cache
+C:\Users\Айдар\Documents\Programming\www\MyProjects\@studing\simple-http-client-server\SimpleHttpClientServer\HttpProxyServer\obj\Debug\net8.0\ref\HttpProxyServer.dll
